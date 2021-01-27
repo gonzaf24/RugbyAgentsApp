@@ -1,0 +1,43 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8a338d01f876168a26ea98ebd487e085.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.35955949832b2594d2387424c1b8de56.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.6bc96fe9d95724b73701fb123d5d65ff.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ba4cf290fdcf5f4e7b535637045b4033.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.4b7a4602e749da28f6c50e7c33b380db.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6e2046f5fb1b6802ce6e367ff2d9c0f0.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "RugbyAgents",
+  "short_name": "RugbyAgents",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "shortname": "RugbyAgents",
+  "description": "En RugbyAgents puedes conectar con el mundo Rugby.",
+  "background_color": "#fff",
+  "theme_color": "#b1a"
+}
