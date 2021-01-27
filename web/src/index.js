@@ -11,17 +11,6 @@ import firebaseApp from "firebase";
 
 require("firebase/database");
 
-const firebaseConfig = {
-  apiKey: "AIzaSyAcILCwpSZ9Ccp76ET1SANcvgVaLcdjMz0",
-  authDomain: "rugbyagentsapp.firebaseapp.com",
-  databaseURL: "https://rugbyagentsapp.firebaseio.com",
-  projectId: "rugbyagentsapp",
-  storageBucket: "rugbyagentsapp.appspot.com",
-  messagingSenderId: "323378684781",
-  appId: "1:323378684781:web:8db06f651612b9ecf43064",
-  measurementId: "G-KYH2ZMESFR",
-};
-
 firebaseApp.initializeApp(firebaseConfig);
 
 const client = new ApolloClient({
