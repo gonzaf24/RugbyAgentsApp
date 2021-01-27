@@ -1,8 +1,3 @@
-const accessKeyId = "AKIAIB3ACXUXJ24LTSBA";
-const secretAccessKey = "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";
-const region = "eu-west-3";
-const bucketName = "rugbyagents";
-
 export const DOCUMENTOS_PLAYER = {
   bucketName: bucketName,
   dirName: "documentosPlayer",
